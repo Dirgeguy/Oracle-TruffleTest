@@ -9,3 +9,7 @@ This will be a back up for the code provided by Mr. Kosinski and the changes I h
 ### Files
 
 The smart contracts will build a prototype Boxing betting contract which function autonomously. The betting contract will receive all its information from a oracle which will provide the needed connection to off-chain resources and information.
+
+
+### Configuration
+all configuration files are currently set to my private ganache test chain. Although the network connection points are default for any ganache chain, and the inbuilt Truffle develop chain still functions as default as well.
