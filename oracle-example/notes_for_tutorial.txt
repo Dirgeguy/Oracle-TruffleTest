@@ -1,0 +1,7 @@
+28/04/2020;
+
+Currently, receiving an error when deploying the contracts through via the instructions of the tutorial. So far, most of the contracts had been working relatively straight forwardly during the first migration and deployment. Where the issue may have come from, may be the closing and reopening of Truffle Develop. I searched the specific error code, and I did get a answer that seems promising here = https://ethereum.stackexchange.com/questions/60295/smart-contract-error-returned-values-arent-valid-did-it-run-out-of-gas
+I am going to try this solution, although I do not know if it will fix the problem, as I apparently do not have the files in the same space as this Answering-user did. Worth a shot anyways though.
+------------
+IT WORKED! Also, I did have the files in the same location. Had to delete old migration jsons and remigrate for some reason. Still not clear as to why.
+------------
